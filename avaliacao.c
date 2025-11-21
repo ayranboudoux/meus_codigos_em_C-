@@ -4,6 +4,7 @@
 Sistema de pesquisa de satisfação para um serviço de streaming que coleta a
 avaliação de 15 usuários. Cada usuário deve classificar o serviço com uma nota de 1 a 5 
 (1 - Insatisfeito, 2 - Regular, 3 - Bom, 4 - Muito Bom, 5 - Excelente). 
+Usando "for" e "switch case"
 */
 
 int main() {
@@ -38,5 +39,6 @@ int main() {
 		printf("%i notas - Bom\n", nota3);
 		printf("%i notas - Muito Bom\n", nota4);
 		printf("%i notas - Excelente\n", nota5);
+
 
 }
