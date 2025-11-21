@@ -10,7 +10,7 @@ Todos os códigos foram escritos com muito carinho para aprimorar minhas habilid
 | Projeto | Descrição |
 |----------|------------|
 | `media.c` | Calcula a media das notas e diz se está aprovado ou reprovado. |
-| `` |  |
+| `avalicao.c` | Recolhe 15 avaliações de usuarios e exibe o total para cada opção. |
 | `` |  |
 | `` |  |
 
