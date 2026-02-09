@@ -13,13 +13,3 @@ Todos os códigos foram escritos com muito carinho para aprimorar minhas habilid
 | `avalicao.c` | Recolhe 15 avaliações de usuarios e exibe o total para cada opção. |
 | `JOGO DA FORCA.cpp` | Jogo da forca com palavras aleatorias, atraves do documento `palavras.txt` |
 | `` |  |
-
----
-
-## ⚙️ Como compilar e executar
-
-Você pode compilar qualquer um dos programas usando o **GCC**:
-
-```bash
-gcc nome_do_arquivo.c -o programa
-./programa
